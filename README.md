@@ -7,4 +7,4 @@ The problem it solves that it returns the subnet mask as well. Currently, this i
 
 Here is my original problem description from stackoverlfow.com: 
 
-[How do I enumerate ipv4 addresses and ipv4mask using Xamarin.iOS](http://stackoverflow.com/questions/7384211/formatting-mac-address-in-c-sharp)
+[How do I enumerate ipv4 addresses and ipv4mask using Xamarin.iOS](http://stackoverflow.com/questions/21524902/how-do-i-enumerate-ipv4-addresses-and-ipv4mask-using-xamarin-ios)
