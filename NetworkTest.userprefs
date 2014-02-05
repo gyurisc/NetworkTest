@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NetworkTest/NetworkTableViewController.cs">
+    <Files>
+      <File FileName="NetworkTest/AppDelegate.cs" Line="38" Column="1" />
+      <File FileName="NetworkTest/Platform/MacOsMarshal.cs" Line="9" Column="3" />
+      <File FileName="NetworkTest/Platform/MacOsNetworkInterface.cs" Line="5" Column="1" />
+      <File FileName="NetworkTest/Platform/NetworkInterfaceInformation.cs" Line="19" Column="8" />
+      <File FileName="NetworkTest/NetworkTableViewController.cs" Line="5" Column="28" />
+      <File FileName="NetworkTest/NetworkTableViewCell.cs" Line="1" Column="1" />
+      <File FileName="NetworkTest/NetworkTableViewSource.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
